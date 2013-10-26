@@ -1,0 +1,28 @@
+{
+	"installed_packages":
+	[
+		"ApplySyntax",
+		"Better CoffeeScript",
+		"DocBlockr",
+		"EditorConfig",
+		"editorconfig-sublime",
+		"GitGutter",
+		"HTML5",
+		"Laravel Blade Highlighter",
+		"LESS",
+		"LineEndings",
+		"Phpcs",
+		"Pretty JSON",
+		"Puppet",
+		"Sass",
+		"SFTP",
+		"SideBarEnhancements",
+		"sublimelint",
+		"Theme - Soda",
+		"TrailingSpaces"
+	],
+	"repositories":
+	[
+		"https://github.com/sindresorhus/editorconfig-sublime"
+	]
+}
