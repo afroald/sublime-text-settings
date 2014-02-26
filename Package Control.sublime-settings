@@ -19,7 +19,8 @@
 		"Sass",
 		"SFTP",
 		"SideBarEnhancements",
-		"sublimelint",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
 		"Theme - Soda",
 		"Theme - Spacegray",
 		"TrailingSpaces"
