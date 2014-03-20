@@ -20,7 +20,11 @@
 		"SFTP",
 		"SideBarEnhancements",
 		"SublimeLinter",
+		"SublimeLinter-annotations",
+		"SublimeLinter-coffeelint",
+		"SublimeLinter-csslint",
 		"SublimeLinter-jshint",
+		"SublimeLinter-json",
 		"Theme - Soda",
 		"Theme - Spacegray",
 		"TrailingSpaces"
