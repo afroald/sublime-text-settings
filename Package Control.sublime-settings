@@ -1,6 +1,7 @@
 {
 	"installed_packages":
 	[
+		"AngularJS",
 		"ApplySyntax",
 		"Better CoffeeScript",
 		"DocBlockr",
