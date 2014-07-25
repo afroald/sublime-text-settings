@@ -1,11 +1,14 @@
 {
 	"color_scheme": "Packages/User/base16-eighties.dark (SL).tmTheme",
+	"ensure_newline_at_eof_on_save": true,
 	"highlight_line": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	"tab_size": 2,
 	"theme": "Spacegray Eighties.sublime-theme",
 	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
 	"word_wrap": false
 }
