@@ -1,4 +1,2 @@
-Package Control.last-run
-Package Control.cache/
-SFTP.sublime-settings
-Package Control.system-ca-bundle
+*
+!Preferences.sublime-settings
