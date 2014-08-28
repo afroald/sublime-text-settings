@@ -16,6 +16,7 @@
 		"LESS",
 		"LineEndings",
 		"Liquid",
+		"PHP-Twig",
 		"Phpcs",
 		"Pretty JSON",
 		"Puppet",
