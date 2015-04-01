@@ -1,6 +1,6 @@
 {
 	"atomic_save": false,
-	"color_scheme": "Packages/User/base16-eighties.dark (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/base16-eighties.dark (SL).tmTheme",
 	"ensure_newline_at_eof_on_save": true,
 	"highlight_line": true,
 	"ignored_packages":
