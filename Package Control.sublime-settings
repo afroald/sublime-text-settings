@@ -1,12 +1,16 @@
 {
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"AngularJS",
 		"ApplySyntax",
+		"Babel",
 		"Better CoffeeScript",
+		"DashDoc",
 		"DocBlockr",
 		"EditorConfig",
-		"editorconfig-sublime",
 		"GitGutter",
 		"Handlebars",
 		"HTML5",
@@ -16,6 +20,7 @@
 		"LESS",
 		"LineEndings",
 		"Liquid",
+		"Package Control",
 		"PHP-Twig",
 		"Phpcs",
 		"Pretty JSON",
@@ -23,6 +28,7 @@
 		"Sass",
 		"SFTP",
 		"SideBarEnhancements",
+		"SimplePHPUnit",
 		"SublimeLinter",
 		"SublimeLinter-annotations",
 		"SublimeLinter-coffee",
@@ -30,12 +36,9 @@
 		"SublimeLinter-csslint",
 		"SublimeLinter-jshint",
 		"SublimeLinter-json",
-		"Theme - Soda",
+		"SublimeLinter-phpcs",
+		"SublimeLinter-phpmd",
 		"Theme - Spacegray",
 		"TrailingSpaces"
-	],
-	"repositories":
-	[
-		"https://github.com/sindresorhus/editorconfig-sublime"
 	]
 }
