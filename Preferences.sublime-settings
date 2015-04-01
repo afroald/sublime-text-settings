@@ -9,7 +9,11 @@
 	],
 	"tab_size": 2,
 	"theme": "Spacegray Eighties.sublime-theme",
+	"trailing_spaces_syntax_ignore":
+	[
+		"Markdown"
+	],
+	"trailing_spaces_trim_on_save": true,
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true,
 	"word_wrap": false
 }
