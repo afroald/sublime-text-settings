@@ -2,7 +2,7 @@
     "phpcs_show_errors_on_save": false,
 
     "phpcs_additional_args": {
-        "--standard": "PSR1",
+        "--standard": "PSR1,PSR2",
         "-n": ""
     }
 }
