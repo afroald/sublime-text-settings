@@ -1,4 +1,5 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -20,7 +21,6 @@
 		"Handlebars",
 		"HTML5",
 		"Indent XML",
-		"InsertDate",
 		"Laravel Blade Highlighter",
 		"LESS",
 		"LineEndings",
