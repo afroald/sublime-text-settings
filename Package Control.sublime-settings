@@ -41,6 +41,8 @@
 		"SublimeLinter",
 		"SublimeLinter-annotations",
 		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-contrib-golint",
+		"SublimeLinter-contrib-gotype",
 		"SublimeLinter-contrib-scss-lint",
 		"SublimeLinter-contrib-twiglint",
 		"SublimeLinter-csslint",
