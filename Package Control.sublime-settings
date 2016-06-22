@@ -19,6 +19,7 @@
 		"DocBlockr",
 		"EditorConfig",
 		"EJS",
+		"Fix Mac Path",
 		"GitGutter",
 		"Handlebars",
 		"HTML5",
@@ -28,7 +29,6 @@
 		"LESS",
 		"LineEndings",
 		"MultiEditUtils",
-		"nginx",
 		"Package Control",
 		"PHP-Twig",
 		"Pretty JSON",
@@ -51,6 +51,7 @@
 		"SublimeLinter-phpcs",
 		"SublimeLinter-phpmd",
 		"Theme - Spacegray",
-		"TrailingSpaces"
+		"TrailingSpaces",
+		"TypeScript"
 	]
 }
