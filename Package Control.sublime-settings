@@ -12,13 +12,12 @@
 		"ApacheConf.tmLanguage",
 		"ApplySyntax",
 		"Babel",
-		"Better CoffeeScript",
+		"Bitbake Syntax",
 		"Color Highlighter",
 		"CSS3",
-		"DashDoc",
 		"DocBlockr",
 		"EditorConfig",
-		"EJS",
+		"Fix Mac Path",
 		"GitGutter",
 		"Handlebars",
 		"HTML5",
@@ -27,6 +26,7 @@
 		"Laravel Blade Highlighter",
 		"LESS",
 		"LineEndings",
+		"Monokai - Spacegray",
 		"MultiEditUtils",
 		"nginx",
 		"Package Control",
@@ -42,11 +42,15 @@
 		"SublimeLinter-contrib-eslint",
 		"SublimeLinter-contrib-scss-lint",
 		"SublimeLinter-contrib-twiglint",
-		"SublimeLinter-csslint",
 		"SublimeLinter-json",
 		"SublimeLinter-phpcs",
 		"SublimeLinter-phpmd",
+		"SublimeLinter-shellcheck",
+		"Theme - Monokai",
 		"Theme - Spacegray",
 		"TrailingSpaces"
+	],
+	"repositories":
+	[
 	]
 }
