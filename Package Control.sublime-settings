@@ -5,7 +5,6 @@
 	],
 	"install_prereleases":
 	[
-		"SublimeCodeIntel"
 	],
 	"installed_packages":
 	[
@@ -20,12 +19,10 @@
 		"Fix Mac Path",
 		"GitGutter",
 		"Handlebars",
-		"HTML5",
 		"Indent XML",
 		"JSX",
 		"Laravel Blade Highlighter",
 		"LESS",
-		"LineEndings",
 		"Monokai - Spacegray",
 		"MultiEditUtils",
 		"nginx",
@@ -33,6 +30,7 @@
 		"PHP-Twig",
 		"Pretty JSON",
 		"Puppet",
+		"Random Everything",
 		"Sass",
 		"SCSS",
 		"SFTP",
@@ -48,7 +46,8 @@
 		"SublimeLinter-shellcheck",
 		"Theme - Monokai",
 		"Theme - Spacegray",
-		"TrailingSpaces"
+		"TrailingSpaces",
+		"TypeScript"
 	],
 	"repositories":
 	[
