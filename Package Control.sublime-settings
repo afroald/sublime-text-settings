@@ -12,7 +12,6 @@
 		"ApplySyntax",
 		"Babel",
 		"Bitbake Syntax",
-		"Color Highlighter",
 		"CSS3",
 		"DocBlockr",
 		"EditorConfig",
@@ -41,13 +40,16 @@
 		"SublimeLinter-contrib-scss-lint",
 		"SublimeLinter-contrib-twiglint",
 		"SublimeLinter-json",
+		"SublimeLinter-php",
 		"SublimeLinter-phpcs",
 		"SublimeLinter-phpmd",
 		"SublimeLinter-shellcheck",
 		"Theme - Monokai",
 		"Theme - Spacegray",
 		"TrailingSpaces",
-		"TypeScript"
+		"TypeScript",
+		"Vue Syntax Highlight",
+		"Xdebug Client"
 	],
 	"repositories":
 	[
