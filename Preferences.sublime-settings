@@ -29,6 +29,7 @@
 	[
 		120
 	],
+	"spacegray_fileicons": true,
 	"tab_size": 2,
 	"theme": "Spacegray.sublime-theme",
 	"trailing_spaces_syntax_ignore":
