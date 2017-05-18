@@ -16,10 +16,13 @@
 		"*.ttf",
 		"*.zip",
 		".sass-cache/**",
-		"build/tmp/**"
+		"app/cache/**",
+		"build/tmp/**",
+		"node_modules/**"
 	],
 	"color_scheme": "Packages/User/SublimeLinter/Monokai - Spacegray (SL).tmTheme",
 	"ensure_newline_at_eof_on_save": true,
+	"font_size": 12,
 	"highlight_line": true,
 	"ignored_packages":
 	[
