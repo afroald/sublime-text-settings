@@ -1,0 +1,15 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/Mariana (SL).tmTheme",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"rulers":
+	[
+		120
+	],
+	"trailing_spaces_syntax_ignore":
+	[
+		"Markdown"
+	]
+}

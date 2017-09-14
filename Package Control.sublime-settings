@@ -1,0 +1,26 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"ApacheConf.tmLanguage",
+		"Bitbake Syntax",
+		"DocBlockr",
+		"EditorConfig",
+		"GitGutter",
+		"PHP-Twig",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-annotations",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-contrib-sass-lint",
+		"SublimeLinter-contrib-twiglint",
+		"SublimeLinter-json",
+		"SublimeLinter-shellcheck",
+		"TrailingSpaces",
+		"Vue Syntax Highlight"
+	]
+}
