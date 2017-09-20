@@ -10,6 +10,10 @@
 		"DocBlockr",
 		"EditorConfig",
 		"GitGutter",
+		"JSON Reindent",
+		"JSX",
+		"nginx",
+		"Package Control",
 		"PHP-Twig",
 		"Sass",
 		"SideBarEnhancements",
@@ -19,6 +23,7 @@
 		"SublimeLinter-contrib-sass-lint",
 		"SublimeLinter-contrib-twiglint",
 		"SublimeLinter-json",
+		"SublimeLinter-jsxhint",
 		"SublimeLinter-shellcheck",
 		"TrailingSpaces",
 		"Vue Syntax Highlight"
