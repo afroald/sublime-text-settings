@@ -1,15 +1,18 @@
 {
 	"color_scheme": "Packages/User/SublimeLinter/Mariana (SL).tmTheme",
+	"ensure_newline_at_eof_on_save": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
 	"rulers":
 	[
-		120
+		80
 	],
 	"trailing_spaces_syntax_ignore":
 	[
 		"Markdown"
-	]
+	],
+	"translate_tabs_to_spaces": true,
+	"word_wrap": false
 }
